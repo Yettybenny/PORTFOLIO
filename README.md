@@ -26,14 +26,13 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
-![Titanic](https://github.com/user-attachments/assets/d0256049-99d5-49a1-9c91-c339835ba0c1)
-
 *A glimpse of some of the projects I've worked on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+![Titanic](https://github.com/user-attachments/assets/d0256049-99d5-49a1-9c91-c339835ba0c1)
 
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://www.linkedin.com/pulse/titanic-passenger-simple-analysis-okubena-yetunde-mux8f))
 
