@@ -6,7 +6,7 @@ Hello! I'm Okubena Yetunde 🤓, a passionate and results-driven Data Analyst wi
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*✅Data Analysis & Visualization: Expertise in Power BI, Excel, and SQL. Skilled in identifying trends, patterns, and actionable insights from complex datasets.
+✅Data Analysis & Visualization: Expertise in Power BI, Excel, and SQL. Skilled in identifying trends, patterns, and actionable insights from complex datasets.
 
 ✅Data Cleaning & Preparation: Proficient in using SQL, and Power Query for data cleaning, transforming, and integrating datasets.
 
@@ -21,7 +21,7 @@ Hello! I'm Okubena Yetunde 🤓, a passionate and results-driven Data Analyst wi
 
 ✅Technical Tools: SQL, Power BI, Power Query, Power Automate, Excel, and basic understanding of cloud platforms.*
 
-**- ✅ Data Analytics Consulting.**
+**✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
 
 <!--Section 2: List 3-4 key projects-->
