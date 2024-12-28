@@ -25,12 +25,12 @@ Hello! I'm Okubena Yetunde 🤓, a passionate and results-driven Data Analyst wi
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
+![Titanic](https://github.com/user-attachments/assets/d0256049-99d5-49a1-9c91-c339835ba0c1)
 
 *A glimpse of some of the projects I've worked on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-"C:\Users\AJIKEADE\Pictures\Titanic.jpg"
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
