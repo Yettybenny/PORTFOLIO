@@ -30,12 +30,12 @@ I provide in-depth analysis and tailored solutions to help you make data-driven 
 *A glimpse of some of the projects I've worked on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+"C:\Users\AJIKEADE\Pictures\Titanic.jpg"
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More]([https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/](https://www.linkedin.com/pulse/titanic-passenger-simple-analysis-okubena-yetunde-mux8f))
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
