@@ -27,7 +27,7 @@ Hello! I'm Okubena Yetunde 🤓, a passionate and results-driven Data Analyst wi
 ## MY PROJECTS
 *A glimpse of some of the projects I've worked on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Articles on Titanic.**
 
 ![Titanic](https://github.com/user-attachments/assets/d0256049-99d5-49a1-9c91-c339835ba0c1)
 
