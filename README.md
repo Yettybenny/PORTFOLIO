@@ -39,22 +39,34 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 ![Screenshot (60)](https://github.com/user-attachments/assets/5b20dc64-80ba-4ff5-8272-a54c8fe68c08)
 
+**HR Analytics using Excel**
+
+![Screenshot 2024-09-14 123517](https://github.com/user-attachments/assets/4d7a606c-ab42-4eb6-b97b-d0736092628a)
+
 **Impact of Food Prices on Health.**
 
+![Screenshot (84)](https://github.com/user-attachments/assets/552c0f7b-dbe1-4d4b-b1d9-4c89c18095b5)
 
+![Screenshot (85)](https://github.com/user-attachments/assets/b61d4885-e407-4f5c-9f2b-1d2f1b94d83f)
 
 **NEXUSPHARM: Sales Analysis Report.**
+![Screenshot (132)](https://github.com/user-attachments/assets/12a16dbf-b36b-4622-a8e5-3994f6be3eae)
+![Screenshot (133)](https://github.com/user-attachments/assets/9bc91324-ae16-4e44-a49a-291c75e16235)
 
 
 **Adidas US Sales Analysis.**
+![Screenshot (143)](https://github.com/user-attachments/assets/0a75473a-dd56-4a14-8f77-ad8faa65863b)
 
+![Screenshot (144)](https://github.com/user-attachments/assets/48ee1a85-1fdb-45d8-a670-3587c249ab33)
 
 **Bank of America: Customer Complaints.**
 
+![Screenshot (147)](https://github.com/user-attachments/assets/51f15d4c-f467-4ff2-998b-44d21a0626a0)
 
 **The Impact of Economic Health on Rising Cost of Living in Africa.**
 
 
+![Screenshot (127)](https://github.com/user-attachments/assets/02241727-9975-4988-88a1-3d69641dd460)
 
 ## CONTACT DETAILS
 
