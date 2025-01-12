@@ -21,8 +21,7 @@ Hello! I'm Okubena Yetunde 🤓, a passionate and results-driven Data Analyst wi
 
 ✅Technical Tools: SQL, Power BI, Power Query, Power Automate, Excel, and basic understanding of cloud platforms.*
 
-**✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
+**✅ Data Analytics Consulting: I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
@@ -38,9 +37,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 **Call Centre Report.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+(Screenshot (60).png)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
