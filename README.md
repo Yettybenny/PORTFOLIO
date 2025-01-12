@@ -21,7 +21,7 @@ Hello! I'm Okubena Yetunde 🤓, a passionate and results-driven Data Analyst wi
 
 ✅Technical Tools: SQL, Power BI, Power Query, Power Automate, Excel, and basic understanding of cloud platforms.*
 
-**✅ Data Analytics Consulting: I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
+✅ Data Analytics Consulting: I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth.
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
