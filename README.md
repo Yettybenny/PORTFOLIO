@@ -99,7 +99,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href=[YETUNDE CV.docx](https://github.com/user-attachments/files/18415301/YETUNDE.CV.docx)>Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
